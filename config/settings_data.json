@@ -9,6 +9,10 @@
     "colors_background_2": "#F3F3F3",
     "type_header_font": "assistant_n4",
     "type_body_font": "assistant_n4",
+    "social_twitter_link": "https:\/\/twitter.com\/vinyl",
+    "social_facebook_link": "https:\/\/facebook.com\/vinyl",
+    "social_instagram_link": "http:\/\/instagram.com\/vinyl",
+    "social_youtube_link": "https:\/\/www.youtube.com\/vinyl",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
@@ -62,10 +66,10 @@
           "footer-1"
         ],
         "settings": {
-          "color_scheme": "background-1",
+          "color_scheme": "inverse",
           "newsletter_enable": true,
           "newsletter_heading": "Subscribe to our emails",
-          "show_social": false,
+          "show_social": true,
           "enable_country_selector": true,
           "enable_language_selector": true,
           "payment_enable": true

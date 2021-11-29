@@ -13,6 +13,7 @@
     "social_facebook_link": "https:\/\/facebook.com\/vinyl",
     "social_instagram_link": "http:\/\/instagram.com\/vinyl",
     "social_youtube_link": "https:\/\/www.youtube.com\/vinyl",
+    "favicon": "shopify:\/\/shop_images\/vinyl-favicon.jpg",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
